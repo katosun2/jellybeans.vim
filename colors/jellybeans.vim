@@ -551,6 +551,7 @@ delf s:grey_number
 " }}}
 
 
+" my color config
 hi User1 guifg=#000009 guibg=#C2BFA5 gui=bold
 hi User2 guifg=#2222FF guibg=#C2BFA5 gui=bold
 hi User3 guifg=#151515 guibg=#C2BFA5 gui=bold
@@ -561,3 +562,8 @@ hi User7 guifg=#4386C7 guibg=#413C41 gui=bold
 hi User8 guifg=#413c41 guibg=#C2BFA5 gui=bold
 hi StatusLine guifg=#000000 guibg=#C2BFA5
 hi StatusLineNC guifg=#CCCCCC guibg=#413C41 
+
+" Omni menu colors
+hi Pmenu guifg=#CCCCCC guibg=#333333
+hi PmenuSel guifg=#49AF47 guibg=#413C41 gui=bold
+
