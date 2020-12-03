@@ -569,6 +569,6 @@ hi PmenuSel guifg=#49AF47 guibg=#413C41 gui=bold
 
 " Gitgutter
 highlight GitGutterAdd    guifg=#00FF00 ctermfg=2 gui=bold
-highlight GitGutterChange guifg=#FFFFFF ctermfg=3 gui=bold
-highlight GitGutterDelete guifg=#FFFF00 ctermfg=1 gui=bold
+highlight GitGutterChange guifg=#037797 ctermfg=3 gui=bold
+highlight GitGutterDelete guifg=#FF0000 ctermfg=1 gui=bold
 highlight GitGutterChangeDeleteLineNr guifg=#FFFFFF ctermfg=4 gui=bold
